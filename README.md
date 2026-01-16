@@ -1,5 +1,8 @@
 # Software Design Patterns
 
+![Estado del Proyecto](https://img.shields.io/badge/STATUS-BETA-yellow?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python Version](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/tu-usuario/software-design-patterns)
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 
