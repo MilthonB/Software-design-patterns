@@ -1,7 +1,13 @@
 
 
 """
-Metodos de pago con una estrucura bien definida para cada unao de los metodos de pago que se requiera adquier 
+Abstract Factory es un patrón de diseño creacional que nos permite producir familias de objetos relacionados sin especificar sus clases concretas.
+
+El patrón Abstract Factory define una interfaz para crear todos los productos, pero deja la propia creación de productos 
+para las clases de fábrica concretas. Cada tipo de fábrica se corresponde con cierta variedad de producto.
+
+https://refactoring.guru/es/design-patterns/abstract-factory/python/example
+
 """
 
 from abc import ABC, abstractmethod
