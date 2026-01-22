@@ -9,6 +9,9 @@ bibliotecas y API complejas.
 Identificación: El patrón Facade se puede reconocer en una clase con una interfaz simple, pero que delega la mayor parte del trabajo 
 a otras clases. Normalmente, las fachadas gestionan todo el ciclo de vida de los objetos que utilizan.
 
+
+https://refactoring.guru/es/design-patterns/facade/python/example
+
 Pricipios SOLID aplciados son:
 
 - OCP
